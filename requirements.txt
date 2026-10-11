@@ -1,0 +1,11 @@
+torch
+torchvision
+transformers
+opencv-python
+gradio
+numpy
+scikit-learn
+matplotlib
+facenet-pytorch
+tqdm
+pandas

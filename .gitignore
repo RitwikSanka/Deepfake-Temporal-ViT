@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Model weights checkpoints (>100MB cannot be pushed to GitHub)
+weights/*.pth
+weights/*.pt
+*.pth
+*.pt
+
+# Submission archives
+*.zip
+*.tar.gz
+
+# System logs and caches
+.cache/
+.system_generated/
+*.log
+.ipynb_checkpoints/
